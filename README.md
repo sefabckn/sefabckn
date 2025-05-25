@@ -37,19 +37,19 @@
 **Technologies**: SQL, PostgreSQL, ETL Processes  
 **Description**: Designed and implemented a data warehouse solution, facilitating efficient data storage, retrieval, and analysis. Developed ETL pipelines to integrate data from multiple sources.
 
-### 🔄 [Customer Churn Analysis](https://github.com/sefabckn/Customer-Churn-Analysis)
+### 🔄 [Customer Churn Analysis](https://github.com/sefabckn/ChurnAnalysisOfTelecom/blob/main/README.md)
 **Technologies**: Python, Pandas, Scikit-learn  
-**Description**: Conducted an in-depth analysis to identify factors contributing to customer churn. Utilized machine learning models to predict churn probability, aiding in strategic decision-making to enhance customer retention.
+**Description**: Conducted an in-depth analysis to identify factors contributing to customer churn. Utilised machine learning models to predict churn probability, aiding in strategic decision-making to enhance customer retention.
 
-### 🧹 [Data Cleaning Project](https://github.com/sefabckn/Data-Cleaning-Project)
+### 🧹 [Data Cleaning Project](https://github.com/sefabckn/Data_Cleaning/blob/main/README.md)
 **Technologies**: Python, Pandas, NumPy  
 **Description**: Executed comprehensive data cleaning procedures on e-commerce datasets, addressing missing values, outliers, and inconsistencies to prepare data for accurate analysis.
 
-### 🦠 [COVID-19 Data Analysis](https://github.com/sefabckn/COVID-19-Analysis)
+### 🦠 [COVID-19 Data Analysis](https://github.com/sefabckn/Covid19DataAnalysis/blob/main/README.md)
 **Technologies**: Python, Pandas, Matplotlib, Seaborn  
-**Description**: Analyzed global COVID-19 datasets to uncover trends and patterns. Created visualizations to depict the spread and impact of the pandemic over time.
+**Description**: Analysed global COVID-19 datasets to uncover trends and patterns. Created visualisations to depict the spread and impact of the pandemic over time.
 
-### 🛒 [Amazon Web Scraping](https://github.com/sefabckn/Amazon-Web-Scraper)
+### 🛒 [Amazon Web Scraping](https://github.com/sefabckn/AmazonWebScraperPython/blob/main/README.md)
 **Technologies**: Python, BeautifulSoup, Requests  
 **Description**: Developed a web scraper to extract product information from Amazon, enabling price tracking and product comparison for consumers.
 ---
