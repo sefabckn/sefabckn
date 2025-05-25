@@ -33,7 +33,7 @@
 
 ## 📂 Featured Projects
 
-### 🏢 [Data Warehouse Project](https://github.com/sefabckn/Data-Warehouse-Project)
+### 🏢 [Data Warehouse Project](https://github.com/sefabckn/sql-datawarehouse-project/blob/main/README.md)
 **Technologies**: SQL, PostgreSQL, ETL Processes  
 **Description**: Designed and implemented a data warehouse solution, facilitating efficient data storage, retrieval, and analysis. Developed ETL pipelines to integrate data from multiple sources.
 
