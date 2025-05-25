@@ -41,7 +41,7 @@
 **Technologies**: Python, Pandas, Scikit-learn  
 **Description**: Conducted an in-depth analysis to identify factors contributing to customer churn. Utilised machine learning models to predict churn probability, aiding in strategic decision-making to enhance customer retention.
 
-### 🧹 [Data Cleaning Project](https://github.com/sefabckn/Data_Cleaning/blob/main/README.md)
+### 🧹 [Tech Layoff Project](https://github.com/sefabckn/Data_Cleaning/blob/main/README.md)
 **Technologies**: Python, Pandas, NumPy  
 **Description**: Executed comprehensive data cleaning procedures on e-commerce datasets, addressing missing values, outliers, and inconsistencies to prepare data for accurate analysis.
 
